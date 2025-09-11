@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Profile README.md - Animated & English -->
 
-<!--
-**timetravel0/timetravel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi there, I'm <a href="https://www.linkedin.com/in/timetravel0" target="_blank">Daniele</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/timetravel0">
+    <img src="https://komarev.com/ghpvc/?username=timetravel0&style=flat-square" alt="profile views"/>
+  </a>
+  <a href="mailto:i@danielelando.me">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/timetravel0">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://danielelando.me">
+    <img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=google-chrome"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+## 💡 About Me
+
+- 🚀 IT Consultant, Social Media Manager & App Developer based in Turin, Italy  
+- 🌍 Passionate about digital transformation, tech innovation, and smart business  
+- 🛠️ Specialized in digital strategy  
+- 📈 Always learning, sharing, and looking for new challenges!
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=IT+Consultant+from+Italy+🇮🇹;Mobile+Developer+%7C+Tech+Strategist;Always+learning+and+innovating!" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timetravel0&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timetravel0&theme=radical" alt="GitHub Streak"/>
+</p>
