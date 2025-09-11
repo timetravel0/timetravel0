@@ -29,8 +29,9 @@
 - 🛠️ Specialized in digital strategy  
 - 📈 Always learning, sharing, and looking for new challenges!
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=timetravel0&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timetravel0&theme=radical" alt="GitHub Streak"/>
 </p>
