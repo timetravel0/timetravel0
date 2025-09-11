@@ -19,7 +19,6 @@
   </a>
 </p>
 
----
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
@@ -30,11 +29,6 @@
 - 🛠️ Specialized in digital strategy  
 - 📈 Always learning, sharing, and looking for new challenges!
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=IT+Consultant+from+Italy+🇮🇹;Mobile+Developer+%7C+Tech+Strategist;Always+learning+and+innovating!" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=timetravel0&show_icons=true&theme=radical" alt="GitHub Stats"/>
