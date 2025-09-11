@@ -24,7 +24,7 @@
 
 ## 💡 About Me
 
-- 🚀 IT Consultant, Social Media Manager & App Developer based in Turin, Italy  
+- 🚀 IT Consultant & App Developer based in Turin, Italy  
 - 🌍 Passionate about digital transformation, tech innovation, and smart business  
 - 🛠️ Specialized in digital strategy  
 - 📈 Always learning, sharing, and looking for new challenges!
