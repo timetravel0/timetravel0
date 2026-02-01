@@ -1,7 +1,7 @@
 <!-- Profile README.md - Animated & English -->
 
 <h1 align="center">
-  Hi there, I'm <a href="https://www.linkedin.com/in/timetravel0" target="_blank">Daniele</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  Hi there, I'm <a href="https://www.linkedin.com/in/danielelando" target="_blank">Daniele</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </h1>
 
 <p align="center">
